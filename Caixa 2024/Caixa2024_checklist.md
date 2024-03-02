@@ -35,12 +35,15 @@
 	    - [ ] Angular
 	    - [ ] TypeScript 4.X
 	    - [ ] Javascript
-	    - [ ] Python 3.9.X (bibliotecas Pandas
-	    - [ ] NumPy
-	    - [ ] SciPy
-	    - [ ] Matplotlib
-	    - [ ] Tensorflow
-	    - [ ] PyTorch e Scikit-learn)
+	    - [ ] Python 3.9.X 
+            - [ ] Bibliotecas 
+                - [ ] Pandas
+                - [ ] NumPy
+                - [ ] SciPy
+                - [ ] Matplotlib
+                - [ ] Tensorflow
+                - [ ] PyTorch
+                - [ ] Scikit-learn
 	    - [ ] Scala
 	    - [ ] R
 	    - [ ] Kotlin
